@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0018-4sum) |
+| [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -83,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
