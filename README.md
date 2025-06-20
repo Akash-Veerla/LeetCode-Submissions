@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
@@ -132,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
