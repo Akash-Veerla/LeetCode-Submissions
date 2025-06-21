@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Linked List
 |  |
 | ------- |
@@ -58,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -134,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0135-candy) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 <!---LeetCode Topics End-->
