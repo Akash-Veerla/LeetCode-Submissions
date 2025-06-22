@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Linked List
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -159,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
