@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0274-h-index) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String
 |  |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
