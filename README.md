@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
