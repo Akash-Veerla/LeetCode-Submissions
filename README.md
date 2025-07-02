@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Stack
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
