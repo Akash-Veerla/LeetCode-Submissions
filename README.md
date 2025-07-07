@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
 ## Greedy
 |  |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
