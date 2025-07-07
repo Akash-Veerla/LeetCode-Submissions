@@ -1,38 +1,23 @@
+import java.util.*;
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Map<Integer, Integer> freq = new HashMap<>();
-        Set<List<Integer>> res = new HashSet<>();
-        for (int x : nums) freq.put(x, 1 + freq.getOrDefault(x, 0));
-        if (freq.getOrDefault(0, 0) >= 3)
-            res.add(Arrays.asList(0, 0, 0));
-        List<Integer> neg = new ArrayList<>();
-        List<Integer> pos = new ArrayList<>();
-        for (int x : freq.keySet()) {
-            if (x < 0) neg.add(x);
-            else if (x > 0) pos.add(x);
-        } 
-        for (int i : neg) {
-            for (int j : pos) {
-                int k = -i - j;
-                if (freq.containsKey(k)) {
-                    if ((k == i || k == j) && freq.get(k) < 2) continue;
-                    if (k == i && k == j && freq.get(k) < 3) continue;
-                    List<Integer> triplet = Arrays.asList(i, j, k);
-                    Collections.sort(triplet);
-                    res.add(triplet);
-                }
+        List<List<Integer>> sol = new ArrayList<>();
+        Arrays.sort(nums);
+        int n = nums.length;
+        for (int i = 0; i < n - 2; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            int j = i + 1, k = n - 1;
+            while (j < k) {
+                int sum = nums[i] + nums[j] + nums[k];
+                if (sum == 0) {
+                    sol.add(Arrays.asList(nums[i], nums[j], nums[k]));
+                    while (j < k && nums[j] == nums[j + 1]) j++;
+                    while (j < k && nums[k] == nums[k - 1]) k--;
+                    j++; k--;
+                } else if (sum < 0) j++;
+                else k--;
             }
         }
-        for (int x : freq.keySet()) {
-            if (freq.get(x) >= 2) {
-                int y = -2 * x;
-                if (y != x && freq.containsKey(y)) {
-                    List<Integer> triplet = Arrays.asList(x, x, y);
-                    Collections.sort(triplet);
-                    res.add(triplet);
-                }
-            }
-        }
-        return new ArrayList<>(res);
+        return sol;
     }
 }
