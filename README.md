@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 ## Union Find
