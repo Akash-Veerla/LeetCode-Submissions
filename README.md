@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0224-basic-calculator) |
 ## Tree
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0173-binary-search-tree-iterator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -361,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0146-lru-cache) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
