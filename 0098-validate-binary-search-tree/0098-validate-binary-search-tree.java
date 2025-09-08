@@ -17,9 +17,12 @@ class Solution {
     public boolean isValidBST(TreeNode root) {
         return find(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
+
     public boolean find(TreeNode root, long minVal, long maxVal) {
-        if (root == null) return true;
-        if (root.val >= maxVal || root.val <= minVal) return false;
+        if (root == null)
+            return true;
+        if (root.val >= maxVal || root.val <= minVal)
+            return false;
         return find(root.left, minVal, root.val) && find(root.right, root.val, maxVal);
     }
 }
