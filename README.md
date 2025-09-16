@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0433-minimum-genetic-mutation) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Linked List
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0433-minimum-genetic-mutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Stack
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
