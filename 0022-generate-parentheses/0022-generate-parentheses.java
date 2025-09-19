@@ -1,19 +1,19 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        ArrayList<String> sol = new ArrayList<>();
-        generate(sol, "", 0, 0, n);
-        return sol;
+        List<String> ans = new ArrayList<>();
+
+        backTrack(ans, "", 0, 0, n);
+        return ans;
     }
-    public static void generate(ArrayList<String> sol, String T, int open, int close, int n) {
-        if (T.length() == n * 2) {
-            sol.add(T);
+
+    void backTrack(List<String> ans, String currStr, int openB, int closeB, int max) {
+        if (currStr.length() == max * 2) {
+            ans.add(currStr);
             return;
         }
-        if (open < n) {
-            generate(sol, T + "(", open + 1, close, n);
-        }
-        if (close < open) {
-            generate(sol, T + ")", open, close + 1, n);
-        }
+        if (openB < max)
+            backTrack(ans, currStr + "(", openB + 1, closeB, max);
+        if (closeB < openB)
+            backTrack(ans, currStr + ")", openB, closeB + 1, max);
     }
 }
