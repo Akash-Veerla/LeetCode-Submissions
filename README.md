@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0238-product-of-array-except-self) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0290-word-pattern) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
+| [0212-word-search-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0212-word-search-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 ## Divide and Conquer
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0212-word-search-ii) |
 ## String Matching
 |  |
 | ------- |
