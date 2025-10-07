@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0772-construct-quad-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0772-construct-quad-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0772-construct-quad-tree) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -490,4 +493,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
