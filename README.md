@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0189-rotate-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
