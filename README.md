@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0189-rotate-array) |
