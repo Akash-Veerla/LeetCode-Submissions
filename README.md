@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0212-word-search-ii) |
 ## Binary Search Tree
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0190-reverse-bits) |
