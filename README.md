@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [0772-construct-quad-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0502-ipo) |
+| [0605-can-place-flowers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Simulation
 |  |
