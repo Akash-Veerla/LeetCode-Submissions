@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0433-minimum-genetic-mutation) |
+| [1319-unique-number-of-occurrences](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
