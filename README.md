@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0433-minimum-genetic-mutation) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Linked List
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0502-ipo) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String
 |  |
