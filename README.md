@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2390-removing-stars-from-a-string](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2390-removing-stars-from-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Stack
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0224-basic-calculator) |
+| [2390-removing-stars-from-a-string](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0289-game-of-life) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2352-equal-row-and-column-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Counting Sort
 |  |
 | ------- |
