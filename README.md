@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0735-asteroid-collision) |
 | [0772-construct-quad-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0224-basic-calculator) |
+| [0735-asteroid-collision](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0289-game-of-life) |
+| [0735-asteroid-collision](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2352-equal-row-and-column-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2390-removing-stars-from-a-string) |
