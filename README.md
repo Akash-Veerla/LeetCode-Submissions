@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0649-dota2-senate) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Simulation
 |  |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0933-number-of-recent-calls) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
