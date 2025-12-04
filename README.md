@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0433-minimum-genetic-mutation) |
 | [1319-unique-number-of-occurrences](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Linked List
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0502-ipo) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0383-ransom-note) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Prefix Sum
 |  |
