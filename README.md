@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0933-number-of-recent-calls](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0933-number-of-recent-calls) |
 ## Randomized
 |  |
 | ------- |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0933-number-of-recent-calls) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0933-number-of-recent-calls) |
 ## Geometry
 |  |
 | ------- |
