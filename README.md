@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
