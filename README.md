@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0148-sort-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
