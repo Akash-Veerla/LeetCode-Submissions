@@ -16,29 +16,24 @@
 
 class Solution {
     public int pathSum(TreeNode root, int targetSum) {
-        List<Long> path = new ArrayList<>();
-        return helper(root, targetSum, path);
+        Map<Long, Integer> prefixMap = new HashMap<>();
+        prefixMap.put(0L, 1);
+        return dfs(root, 0, targetSum, prefixMap);
     }
 
-    int helper(TreeNode node, int targetSum, List<Long> path) {
+    int dfs(TreeNode node, long sum, int target, Map<Long, Integer> prefixMap) {
         if (node == null)
             return 0;
+        sum += node.val;
 
-        path.add((long) node.val);
-        long sum = 0;
-        int count = 0;
+        int count = prefixMap.getOrDefault(sum - target, 0);
 
-        ListIterator<Long> itr = path.listIterator(path.size());
-        while (itr.hasPrevious()) {
-            sum += itr.previous();
-            if (sum == targetSum)
-                count++;
-        }
+        prefixMap.put(sum, prefixMap.getOrDefault(sum, 0) + 1);
 
-        count += helper(node.left, targetSum, path);
-        count += helper(node.right, targetSum, path);
+        count += dfs(node.left, sum, target, prefixMap);
+        count += dfs(node.right, sum, target, prefixMap);
 
-        path.remove(path.size() - 1);
+        prefixMap.put(sum, prefixMap.get(sum) - 1);
 
         return count;
     }
