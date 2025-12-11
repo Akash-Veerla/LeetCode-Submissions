@@ -13,6 +13,7 @@
  *     }
  * }
  */
+
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
         if (root == null) {
@@ -23,23 +24,21 @@ class Solution {
         } else if (root.val > key) {
             root.left = deleteNode(root.left, key);
         } else {
-            // Leaf Node
             if (root.left == null && root.right == null) {
                 return null;
             }
-            // Node with One Child
             if (root.left == null) {
                 return root.right;
             } else if (root.right == null) {
                 return root.left;
             }
-            // Node with Two Children
             TreeNode successor = findInOrder(root.right);
             root.val = successor.val;
-            root.right = deleteNode(root.right, successor.val); 
+            root.right = deleteNode(root.right, successor.val);
         }
         return root;
     }
+
     public TreeNode findInOrder(TreeNode root) {
         while (root.left != null) {
             root = root.left;
