@@ -1,82 +1,37 @@
 class Solution {
     public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
-        int len = queries.size();
-        double[] result = new double[len];
-        Set<String> seen = new HashSet<>();
-        Map<String, Node> nodes = new HashMap<>();
-
-        for (int i = 0; i < equations.size(); i++) {
-            List<String> s = equations.get(i);
-            String top = s.get(0);
-            String bot = s.get(1);
-            double val = values[i];
-            Node botN = new Node(bot);
-            Node topN = new Node(top);
-            if (seen.contains(top)) {
-                topN = nodes.get(top);
-            } else {
-                nodes.put(top, topN);
-            }
-            if (seen.contains(bot)) {
-                botN = nodes.get(bot);
-            } else {
-                nodes.put(bot, botN);
-            }
-            seen.add(top);
-            seen.add(bot);
-            botN.connections.add(new Connection(botN, topN, 1 / val));
-            topN.connections.add(new Connection(topN, botN, val));
+        double[] ans = new double[queries.size()];
+        Map<String, Map<String, Double>> graph = new HashMap<>();
+        for (int i = 0; i < equations.size(); ++i) {
+            final String A = equations.get(i).get(0);
+            final String B = equations.get(i).get(1);
+            graph.putIfAbsent(A, new HashMap<>());
+            graph.putIfAbsent(B, new HashMap<>());
+            graph.get(A).put(B, values[i]);
+            graph.get(B).put(A, 1.0 / values[i]);
         }
-
-        for (int i = 0; i < queries.size(); i++) {
-            List<String> q = queries.get(i);
-            String top = q.get(0);
-            String bot = q.get(1);
-            result[i] = dfs(nodes.get(top), bot, 1, new HashSet<>(), nodes.size());
+        for (int i = 0; i < queries.size(); ++i) {
+            final String A = queries.get(i).get(0);
+            final String C = queries.get(i).get(1);
+            if (!graph.containsKey(A) || !graph.containsKey(C))
+                ans[i] = -1.0;
+            else
+                ans[i] = divide(graph, A, C, new HashSet<>());
         }
-
-        return result;
+        return ans;
     }
 
-    private double dfs(Node topN, String bot, double curr, Set<Node> visited, int size) {
-        if (!visited.contains(topN) && topN != null) {
-            visited.add(topN);
-            if (topN.equation.equals(bot)) {
-                return curr;
-            }
-            for (int i = 0; i < topN.connections.size(); i++) {
-                Connection co = topN.connections.get(i);
-                double d = dfs(co.to, bot, curr * co.value, visited, size);
-                if (d == -1 && i == topN.connections.size() - 1 && visited.size() == size) {
-                    return -1;
-                } else if (d != -1) {
-                    return d;
-                }
-            }
+    private double divide(Map<String, Map<String, Double>> graph, final String A, final String C, Set<String> seen) {
+        if (A.equals(C))
+            return 1.0;
+        seen.add(A);
+        for (final String B : graph.get(A).keySet()) {
+            if (seen.contains(B))
+                continue;
+            final double res = divide(graph, B, C, seen);
+            if (res > 0)
+                return graph.get(A).get(B) * res;
         }
-        return -1;
-    }
-
-    class Node {
-        final String equation;
-        List<Connection> connections;
-
-        public Node(String equation) {
-            this.equation = equation;
-            this.connections = new ArrayList<>();
-        }
-
-    }
-
-    class Connection {
-        final Node from;
-        final Node to;
-        final Double value;
-
-        public Connection(Node from, Node to, Double value) {
-            this.from = from;
-            this.to = to;
-            this.value = value;
-        }
+        return -1.0;
     }
 }
