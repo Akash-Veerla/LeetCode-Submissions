@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0872-leaf-similar-trees) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0841-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0841-keys-and-rooms) |
 ## Shortest Path
 |  |
