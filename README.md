@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1833-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Union Find
 |  |
 | ------- |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
