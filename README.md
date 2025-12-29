@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1833-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Sorting
 |  |
 | ------- |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2352-equal-row-and-column-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0502-ipo) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## Queue
 |  |
