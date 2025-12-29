@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0735-asteroid-collision) |
 | [0772-construct-quad-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0772-construct-quad-tree) |
+| [0875-koko-eating-bananas](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Breadth-First Search
