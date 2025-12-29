@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1833-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0502-ipo) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2542-maximum-subsequence-score) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String
 |  |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0649-dota2-senate) |
+| [2542-maximum-subsequence-score](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2542-maximum-subsequence-score) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Simulation
 |  |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0502-ipo) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2542-maximum-subsequence-score) |
 ## Queue
 |  |
 | ------- |
