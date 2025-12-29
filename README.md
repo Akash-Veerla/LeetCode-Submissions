@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -735,4 +736,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
