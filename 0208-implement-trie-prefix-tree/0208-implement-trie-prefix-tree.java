@@ -1,62 +1,62 @@
-class TriNode{
-    private TriNode[] children;
-    private boolean isEndWord;
-    public TriNode(){
-        children = new TriNode[26];
-    }
-    public void put(char ch , TriNode node){
-        children[ch - 'a'] = node;
-    }
-    public TriNode get(char ch){
-        return children[ch - 'a'];
-    }
-    public boolean containsKey(char ch){
-        return children[ch - 'a'] != null;
-    }
-    public void setEnd(){
-        isEndWord = true;
-    }
-    public boolean isEnd(){
-        return isEndWord;
-    }
-}
 class Trie {
-    private TriNode root;
+    Node root;
+
     public Trie() {
-        root = new TriNode();
+        root = new Node();
     }
-    
+
     public void insert(String word) {
-        TriNode curr = root;
-        for(char ch : word.toCharArray()){
-            if(!curr.containsKey(ch)){
-                curr.put(ch , new TriNode());
-            }
-            curr = curr.get(ch);
-        }
-        curr.setEnd();
+        root.insert(word, 0);
     }
-    
+
     public boolean search(String word) {
-        TriNode curr = root;
-        for(char ch : word.toCharArray()){
-            if(!curr.containsKey(ch)){
-                return false;
-            }
-            curr = curr.get(ch);
-        }
-        return curr.isEnd();
+        return root.search(word, 0);
     }
-    
+
     public boolean startsWith(String prefix) {
-        TriNode curr = root;
-        for(char ch : prefix.toCharArray()){
-            if(!curr.containsKey(ch)){
-                return false;
-            }
-            curr = curr.get(ch);
+        return root.startsWith(prefix, 0);
+    }
+
+    class Node {
+        Node[] nodes;
+        boolean isEnd;
+        Node() {
+            nodes = new Node[26];
         }
-        return true;
+
+        private void insert(String word, int idx) {
+            if (idx >= word.length())
+                return;
+            int i = word.charAt(idx) - 'a';
+            if (nodes[i] == null) {
+                nodes[i] = new Node();
+            }
+            if (idx == word.length() - 1)
+                nodes[i].isEnd = true;
+            nodes[i].insert(word, idx + 1);
+        }
+
+        private boolean search(String word, int idx) {
+            if (idx >= word.length())
+                return false;
+            Node node = nodes[word.charAt(idx) - 'a'];
+            if (node == null)
+                return false;
+            if (idx == word.length() - 1 && node.isEnd)
+                return true;
+            return node.search(word, idx + 1);
+        }
+
+        private boolean startsWith(String prefix, int idx) {
+            if (idx >= prefix.length())
+                return false;
+            Node node = nodes[prefix.charAt(idx) - 'a'];
+            if (node == null)
+                return false;
+            if (idx == prefix.length() - 1)
+                return true;
+            return node.startsWith(prefix, idx + 1);
+        }
     }
 }
 
