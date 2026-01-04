@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0649-dota2-senate) |
+| [1143-longest-common-subsequence](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0790-domino-and-tromino-tiling) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
