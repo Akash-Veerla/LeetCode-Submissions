@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Randomized
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0933-number-of-recent-calls) |
 ## Geometry
 |  |
