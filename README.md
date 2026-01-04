@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [1137-n-th-tribonacci-number](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1137-n-th-tribonacci-number](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/0139-word-break) |
+| [1137-n-th-tribonacci-number](https://github.com/Akash-Veerla/LeetCode-Submissions/tree/master/1137-n-th-tribonacci-number) |
 ## Ordered Set
 |  |
 | ------- |
